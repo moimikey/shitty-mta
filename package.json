@@ -1,0 +1,16 @@
+{
+  "name": "Shitty MTA",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Scott Hertzberg",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.8",
+    "htmlstrip-native": "^0.1.1",
+    "superagent": "^1.1.0"
+  }
+}
