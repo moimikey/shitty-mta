@@ -6,11 +6,28 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michael Scott Hertzberg",
+  "author": "Michael Scott Hertzberg <mshertzberg@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "mta",
+    "nyc",
+    "subway",
+    "train"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/moimikey/shitty-mta.git"
+  },
   "dependencies": {
     "ascii-table": "0.0.8",
     "htmlstrip-native": "^0.1.1",
     "superagent": "^1.1.0"
+  },
+  "bin": {
+    "shittymta": "./index.js"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
   }
 }
+
