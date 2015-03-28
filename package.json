@@ -1,6 +1,6 @@
 {
   "name": "shitty-mta",
-  "version": "0.1.0-rc1",
+  "version": "0.2.0",
   "description": "What now?",
   "main": "index.js",
   "scripts": {
@@ -30,4 +30,3 @@
     "node": ">= 0.10.x"
   }
 }
-
