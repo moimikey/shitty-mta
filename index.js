@@ -4,7 +4,6 @@
 
 var Http  = require('superagent');
 var Table = require('ascii-table');
-var Strip = require('htmlstrip-native');
 
 var table;
 
@@ -24,7 +23,6 @@ function createTable() {
   table.setHeading(
     'Line',
     'Service'
-    // 'What now?'
   );
 }
 
@@ -32,7 +30,6 @@ function pushToTable(line) {
   table.addRow(
     line.name,
     line.status
-    // Strip.html_strip(line.text, { compact_whitespace: true })
   );
 }
 
