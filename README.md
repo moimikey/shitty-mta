@@ -1,5 +1,7 @@
 # Shitty MTA [![NPM](https://img.shields.io/npm/v/shitty-mta.svg)](https://www.npmjs.com/package/shitty-mta) [![David](https://img.shields.io/david/moimikey/shitty-mta.svg)](#) [![License](https://img.shields.io/npm/l/shitty-mta.svg)](#) [![NYC](https://img.shields.io/badge/made%20in%20%20-%20nyc%20-red.svg)](#)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/moimikey/shitty-mta.svg)](https://greenkeeper.io/)
+
 ```
 $ npm -g install shitty-mta
 $ shittymta                                                                                                                127 ↵
