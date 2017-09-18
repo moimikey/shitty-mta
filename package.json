@@ -19,8 +19,8 @@
     "url": "http://github.com/moimikey/shitty-mta.git"
   },
   "dependencies": {
-    "ascii-table": "^0.0.8",
-    "superagent": "^1.1.0"
+    "ascii-table": "^0.0.9",
+    "superagent": "^3.6.0"
   },
   "bin": {
     "shittymta": "./index.js"
