@@ -19,7 +19,7 @@
     "url": "http://github.com/moimikey/shitty-mta.git"
   },
   "dependencies": {
-    "ascii-table": "^0.0.8",
+    "ascii-table": "^0.0.9",
     "superagent": "^1.1.0"
   },
   "bin": {
